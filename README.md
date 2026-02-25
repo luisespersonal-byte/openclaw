@@ -54,6 +54,7 @@ Runtime: **Node ≥22**.
 ```bash
 npm install -g openclaw@latest
 # or: pnpm add -g openclaw@latest
+# or: bun add -g openclaw@latest
 
 openclaw onboard --install-daemon
 ```
