@@ -849,6 +849,7 @@
               {
                 "group": "Other install methods",
                 "pages": [
+                  "install/macos",
                   "install/docker",
                   "install/podman",
                   "install/nix",
